@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWhile", "AppWhile\AppWhile.csproj", "{7F293100-6EAF-47D8-B43B-7BCD57B454CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F293100-6EAF-47D8-B43B-7BCD57B454CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F293100-6EAF-47D8-B43B-7BCD57B454CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F293100-6EAF-47D8-B43B-7BCD57B454CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F293100-6EAF-47D8-B43B-7BCD57B454CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
